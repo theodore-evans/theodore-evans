@@ -11,7 +11,10 @@ Code summary written by GPT3 :astonished: 👉 [OpenAI Beta Access](https://beta
 **This week, I have been mostly:**
 <!--START_SECTION:waka-->
 
-Nothing here yet :)
+```text
+C#       4 mins          █████████████████████████   100.00 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
 
 <!--END_SECTION:waka-->
 
