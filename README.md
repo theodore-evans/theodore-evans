@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **Data and Inference Pipelines for Explainable Artificial Intelligence**
+- 🔭 I’m currently working on **Evaluation and applications of code-davinci**
 - 🌱 I’m currently learning **Network administration and Cybersecurity**
 - 💬 Ask me about **Explainable AI** or **[listen to me talk about it](https://www.empaia.org/academy-2-3)**
 
