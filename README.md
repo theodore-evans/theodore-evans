@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **On-premise Kubernetes administration**
+- 🔭 I’m currently working on **On-prem Kubernetes admion**
 - 🌱 I’m currently learning **k8s and network administration**
 - 📖 I'm currently reading **Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin, by [Andy Greenberg](https://andygreenberg.net/)**
 - 💬 Ask me about **Explainable AI** or **[listen to me talk about it](https://www.empaia.org/academy-2-3)**
