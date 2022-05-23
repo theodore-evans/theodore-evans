@@ -13,10 +13,12 @@ Code summary written by GPT-3 --- [OpenAI Beta Access](https://beta.openai.com/)
 <!--START_SECTION:waka-->
 
 ```text
-YAML    6 hrs 44 mins   ████████████████████████▒   97.82 %
-Bash    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-TeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+YAML         6 hrs 44 mins   ████████████████████▓░░░░   82.46 %
+Python       1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TeX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
