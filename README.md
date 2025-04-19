@@ -4,4 +4,9 @@ My current OSS/pro bono projects + contributions:
 - [Need4Deed](https://gitlab.com/need4deed/website) - Volunteer matchmaking service for refugee accommodation centres in Berlin
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka--> 
