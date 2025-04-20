@@ -6,7 +6,10 @@ My current OSS/pro bono projects + contributions:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   18 mins         ███████████▒░░░░░░░░░░░░░   45.11 %
+Markdown     14 mins         █████████▒░░░░░░░░░░░░░░░   36.87 %
+CSS          6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka--> 
