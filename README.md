@@ -6,11 +6,9 @@ My current OSS/pro bono projects + contributions:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       13 mins         ██████████▓░░░░░░░░░░░░░░   42.79 %
-Markdown   11 mins         █████████▒░░░░░░░░░░░░░░░   36.72 %
-Other      4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-YAML       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Other   10 mins         █████████████░░░░░░░░░░░░   51.66 %
+Rust    9 mins          ██████████▓░░░░░░░░░░░░░░   43.22 %
+YAML    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 ```
 
 <!--END_SECTION:waka--> 
